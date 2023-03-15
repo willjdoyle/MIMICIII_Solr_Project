@@ -1,6 +1,9 @@
 William Doyle
 COMP.5520 Foundations of Digital Health Project #2: MIMIC III
 
+GITHUB LINK:
+https://github.com/willjdoyle/MIMICIII_Solr_Project
+
 SUMMARY:
 This project creates a Solr server and indexes the discharge summary notes from the MIMIC III database. Then, the user can use a GUI
 to create a query and view each of the returned documents. The query GUI allows for user to change the lower and upper date bounds, 
