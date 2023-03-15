@@ -1,0 +1,9 @@
+{
+    "id": "58224",
+    "hadm_id": 100724,
+    "chartdate": "2118-07-20T00:00:00Z",
+    "note_text": "Name:  [**Known lastname 13587**],[**Known firstname 7401**] L.               Unit No:   [**Numeric Identifier 13588**]\n\nAdmission Date:  [**2118-7-14**]              Discharge Date:   [**2118-7-20**]\n\nDate of Birth:  [**2025-4-19**]             Sex:   F\n\nService: NEUROSURGERY\n\nAllergies:\nPenicillins\n\nAttending:[**First Name3 (LF) 599**]\nAddendum:\nSurgical intervention was required because secondary malignant\nneoplasm was causing compression to the brain.\n\nMajor Surgical or Invasive Procedure:\nPosterior Fossa Decompression for tumor removal\n\n\nDischarge Disposition:\nExtended Care\n\nFacility:\n[**Hospital 3542**] Healthcare Center - [**Location (un) 3542**]\n\nDischarge Diagnosis:\nPrelim Diganosis: Colon CA metastasis to brain with compression\n\n\n                             [**Name6 (MD) **] [**Last Name (NamePattern4) 603**] MD [**MD Number(2) 604**]\n\nCompleted by:[**2118-8-25**]",
+    "hospital_expire_flag": 0,
+    "icd9_code": "   icd9_code\n0       1983\n1       3484\n2       1970\n3       1987\n4       2930\n5      85221\n6      85201\n7       4019\n8      V1005\n9      78720\n10     E9320\n11      2252\n12     56400\n13     73300\n14     E8889\n15     V4589",
+    "_version_": 1760288150628859904
+}
